@@ -1,7 +1,7 @@
 {
 	"name": "germania-kg/token",
 	"description": "Simple tokens",
-
+	"license": "MIT",
 	"authors": [
 		{
 			"name": "Carsten Witt",
