@@ -7,6 +7,14 @@
 
 **Simple tokens**
 
+[![Packagist](https://img.shields.io/packagist/v/germania-kg/token.svg?style=flat)](https://packagist.org/packages/germania-kg/token)
+[![PHP version](https://img.shields.io/packagist/php-v/germania-kg/token.svg)](https://packagist.org/packages/germania-kg/token)
+[![Build Status](https://img.shields.io/travis/GermaniaKG/Token.svg?label=Travis%20CI)](https://travis-ci.com/GermaniaKG/Token)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/GermaniaKG/Token/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/GermaniaKG/Token/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/GermaniaKG/Token/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/GermaniaKG/Token/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/GermaniaKG/Token/badges/build.png?b=master)](https://scrutinizer-ci.com/g/GermaniaKG/Token/build-status/master)
+
+
 
 
 ## Installation
