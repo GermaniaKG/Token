@@ -1,44 +1,44 @@
 {
-	"name": "germania-kg/token",
-	"description": "Simple tokens",
-	"license": "MIT",
-	"authors": [
-		{
-			"name": "Carsten Witt",
-			"email": "carstenwitt@germania-kg.com",
-			"role": "Developer"
-		}
-	],
-	"autoload": {
-		"psr-4": {
-			"Germania\\Token\\": "src/"
-		}
-	},
+    "name": "germania-kg/token",
+    "description": "Simple tokens",
+    "license": "MIT",
+    "authors": [{
+        "name": "Carsten Witt",
+        "email": "carstenwitt@germania-kg.com",
+        "role": "Developer"
+    }],
+    "autoload": {
+        "psr-4": {
+            "Germania\\Token\\": "src/"
+        }
+    },
 
-	"autoload-dev": {
-		"psr-4": { "tests\\": "tests/src" }
-	},
+    "autoload-dev": {
+        "psr-4": {
+            "tests\\": "tests/src"
+        }
+    },
 
     "require": {
-    	"php": ">=7.0.0",
-			"psr/log": "^1.1"
-	},
+        "php": ">=7.0.0",
+        "psr/log": "^1.1"
+    },
 
-	"require-dev": {
-		"friendsofphp/php-cs-fixer": "^2.12",
-		"php-coveralls/php-coveralls": "^2.0",
-		"phpunit/phpunit": "^9.0",
-    "phpspec/prophecy-phpunit": "^2.0"
-	},
+    "require-dev": {
+        "friendsofphp/php-cs-fixer": "^2.12",
+        "php-coveralls/php-coveralls": "^2.0",
+        "phpunit/phpunit": "^9.0",
+        "phpspec/prophecy-phpunit": "^2.0"
+    },
 
-  	"scripts": {
-		"phpcs": "php-cs-fixer fix -v --diff --dry-run --allow-risky=yes src/",
-		"phpcs-apply": "php-cs-fixer fix -vv --allow-risky=yes src/",
- 		"phpunit": "phpunit --coverage-text",
+    "scripts": {
+        "phpcs": "php-cs-fixer fix -v --diff --dry-run --allow-risky=yes src/",
+        "phpcs-apply": "php-cs-fixer fix -vv --allow-risky=yes src/",
+        "phpunit": "phpunit --coverage-text",
 
-    	"test": [
-        	"@phpcs",
-        	"@phpunit"
-		]
-	}
+        "test": [
+            "@phpcs",
+            "@phpunit"
+        ]
+    }
 }
