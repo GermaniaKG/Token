@@ -9,6 +9,7 @@ build:
   tests:
     override:
       -
+        # This makes sure coverage will be generated on Scrutinizer with PHP 8
         command: 'phpdbg -qrr vendor/bin/phpunit --coverage-clover tests/build/clover.xml'
         coverage:
           file: 'tests/build/clover.xml'
