@@ -9,7 +9,7 @@
 
 [![Packagist](https://img.shields.io/packagist/v/germania-kg/token.svg?style=flat)](https://packagist.org/packages/germania-kg/token)
 [![PHP version](https://img.shields.io/packagist/php-v/germania-kg/token.svg)](https://packagist.org/packages/germania-kg/token)
-[![Tests](https://github.com/germania-kg/token/actions/workflows/tests.yml/badge.svg)](https://github.com/germania-kg/token/actions/workflows/tests.yml)
+[![Tests](https://github.com/GermaniaKG/Token/actions/workflows/tests.yml/badge.svg)](https://github.com/GermaniaKG/Token/actions/workflows/tests.yml)
 
 
 
