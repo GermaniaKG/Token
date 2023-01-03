@@ -9,11 +9,7 @@
 
 [![Packagist](https://img.shields.io/packagist/v/germania-kg/token.svg?style=flat)](https://packagist.org/packages/germania-kg/token)
 [![PHP version](https://img.shields.io/packagist/php-v/germania-kg/token.svg)](https://packagist.org/packages/germania-kg/token)
-[![Build Status](https://img.shields.io/travis/com/GermaniaKG/Token.svg?label=Travis%20CI)](https://travis-ci.com/GermaniaKG/Token)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/GermaniaKG/Token/badges/quality-score.png)](https://scrutinizer-ci.com/g/GermaniaKG/Token/)
-[![Code Coverage](https://scrutinizer-ci.com/g/GermaniaKG/Token/badges/coverage.png)](https://scrutinizer-ci.com/g/GermaniaKG/Token/)
-[![Build Status](https://scrutinizer-ci.com/g/GermaniaKG/Token/badges/build.png)](https://scrutinizer-ci.com/g/GermaniaKG/Token/)
-
+[![Tests](https://github.com/germania-kg/token/actions/workflows/tests.yml/badge.svg)](https://github.com/germania-kg/token/actions/workflows/tests.yml)
 
 
 
